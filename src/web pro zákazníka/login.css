@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    background-color: ghostwhite;
+    background-image: url("https://wallpaperaccess.com/full/439038.jpg");
+}
+
+form {
+    display: inline-block;
+    padding: 10px;
+    background-color: lightgray;
+    font-family: Arial;
+    border-radius: 30px;
+}
+.login{
+    padding: 17px 5px;
+    font-family: Arial;
+    border-radius: 30px;
+    text-align: centr;
+
+}
+
+h1 {
+    margin: 0;
+    font-family:Arial;
+    padding: 7px;
+}
+
+.tlacitko {
+    border-radius: 30px;
+    border: 1px solid black;
+    padding: 15px 120px;
+    background-color:rebeccapurple;
+    color: white;
+    cursor: pointer;
+    border-radius: 30px;
+}
+input {
+    padding: 7px 3px;
+    border: 2px solid #dddddd;
+    margin-top: 5px;
+    border-radius: 30px;
+}
+.remember{
+    font-size: 85%;
+    text-align: left;
+}
+.username{
+    padding: 10px 40px;
+    text-align: left;
+    display: inline-block;
+}
+.password{
+    padding: 10px 40px;
+    text-align: left;
+    display: inline-block;
+}
