@@ -113,14 +113,17 @@ tr:nth-child(even) {
     background-color: #dddddd;
 }
 .sad {
-    background-image: url("https://f.vividscreen.info/soft/8bac607a898f3967f46c1be747c9f516/Sad-Cat-1920x1080.jpg");
-    margin: 0;
+     background-image: url("https://f.vividscreen.info/soft/8bac607a898f3967f46c1be747c9f516/Sad-Cat-1920x1080.jpg");
+     margin: 0;
 
-}
+ }
 .basket {
     text-align: center;
-    padding: 36%;
+    margin-top: 36%;
     color: lightgray;
     font-family: Brush Script MT;
     font-size: 20px;
+}
+.cc {
+    text-align: center;
 }
